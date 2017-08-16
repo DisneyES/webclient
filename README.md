@@ -104,3 +104,13 @@ Vendor JavaScript Files
   This is a modified version with some minor changes, see c211e4ce and de5c3dce
 
 See [js/vendor/README.md](https://github.com/meganz/webclient/blob/master/js/vendor/README.md) for more.
+
+Deploy
+------
+Install command:
+#### npm install
+Run command:
+#### npm install --only=production
+Deploy to Heroku
+----------------
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
