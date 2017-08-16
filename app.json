@@ -1,0 +1,7 @@
+{
+  "name": "Mega.nz Client",
+  "description": "A Mega.nz Client",
+  "repository": "https://github.com/DisneyES/webclient",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
